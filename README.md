@@ -1,0 +1,2 @@
+# dns
+DNSimple configuration
