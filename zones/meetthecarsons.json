@@ -1,0 +1,100 @@
+{
+    "name": "meetthecarsons.com",
+    "records": [
+        {
+            "name": "",
+            "content": "73.35.154.81",
+            "ttl": 3600,
+            "type": "A"
+        },
+        {
+            "name": "calendar",
+            "content": "ghs.googlehosted.com",
+            "ttl": 3600,
+            "type": "CNAME"
+        },
+        {
+            "name": "mail",
+            "content": "ghs.googlehosted.com",
+            "ttl": 3600,
+            "type": "CNAME"
+        },
+        {
+            "name": "",
+            "content": "alt2.aspmx.l.google.com",
+            "ttl": 3600,
+            "prio": 5,
+            "type": "MX"
+        },
+        {
+            "name": "",
+            "content": "alt1.aspmx.l.google.com",
+            "ttl": 3600,
+            "prio": 5,
+            "type": "MX"
+        },
+        {
+            "name": "",
+            "content": "aspmx.l.google.com",
+            "ttl": 3600,
+            "prio": 1,
+            "type": "MX"
+        },
+        {
+            "name": "",
+            "content": "alt4.aspmx.l.google.com",
+            "ttl": 3600,
+            "prio": 10,
+            "type": "MX"
+        },
+        {
+            "name": "",
+            "content": "alt3.aspmx.l.google.com",
+            "ttl": 3600,
+            "prio": 10,
+            "type": "MX"
+        },
+        {
+            "name": "",
+            "content": "ns3.dnsimple.com",
+            "ttl": 3600,
+            "type": "NS"
+        },
+        {
+            "name": "",
+            "content": "ns4.dnsimple.com",
+            "ttl": 3600,
+            "type": "NS"
+        },
+        {
+            "name": "",
+            "content": "ns2.dnsimple.com",
+            "ttl": 3600,
+            "type": "NS"
+        },
+        {
+            "name": "",
+            "content": "ns1.dnsimple.com",
+            "ttl": 3600,
+            "type": "NS"
+        },
+        {
+            "name": "",
+            "content": "ns1.dnsimple.com admin.dnsimple.com 1456690121 86400 7200 604800 300",
+            "ttl": 3600,
+            "type": "SOA"
+        },
+        {
+            "name": "",
+            "content": "v=spf1 a include:_spf.google.com ~all",
+            "ttl": 3600,
+            "type": "SPF"
+        },
+        {
+            "name": "",
+            "content": "v=spf1 a include:_spf.google.com ~all",
+            "ttl": 3600,
+            "type": "TXT"
+        }
+    ]
+}
